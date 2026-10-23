@@ -1,0 +1,4 @@
+Imported from MoreOrLessSoftware/moonlight-android (app/src/main/jni/vulkan and
+VulkanRendererBridge.java) up to 3e6665e, with its commit history and authorship kept.
+Nightjar's changes are the commit that removes tests/ and edits this directory's Android.mk,
+plus li_compat.{h,cpp}, so a later sync is a plain copy of the fork's files.
