@@ -6,4 +6,5 @@
     <exclude domain="file" path="client.crt"/>
     <exclude domain="file" path="client.key"/>
     <exclude domain="file" path="uniqueid"/>
+    <exclude domain="file" path="screen2"/>
 </full-backup-content>
